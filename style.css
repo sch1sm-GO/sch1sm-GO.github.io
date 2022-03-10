@@ -16,3 +16,6 @@ aside {
 article {
   flex: 3
 }
+header {
+  height:auto;
+}
