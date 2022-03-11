@@ -18,3 +18,8 @@ article {
 }
 header {
   height:auto;
+}
+iframe {
+  width:auto;
+  height:auto;
+}
