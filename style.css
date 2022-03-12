@@ -1,4 +1,4 @@
-a: hover {
+.color a: hover {
   color: green;
 }
 body, main {
